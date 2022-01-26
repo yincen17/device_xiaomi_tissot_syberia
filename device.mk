@@ -74,6 +74,10 @@ PRODUCT_PACKAGES += \
 # Properties
 -include device/xiaomi/tissot/prop.mk
 
+# Prebuilt Apps
+PRODUCT_PACKAGES += \
+    GalleryGoPrebuilt
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     init.goodix.sh \
