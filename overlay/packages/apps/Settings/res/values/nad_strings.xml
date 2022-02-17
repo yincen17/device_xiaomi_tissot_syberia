@@ -13,6 +13,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="maintainer_name"> Glassy </string>
+    <string name="maintainer_name"> 𝙂𝙡𝙖𝙨𝙨𝙮 </string>
+    <string name="github_username">glassydan</string> 
+    <string name="telegram_username">whdbfl</string>
+
 </resources>
 
