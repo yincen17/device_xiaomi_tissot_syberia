@@ -20,9 +20,9 @@
   },
   {
    "remote":"github",
-    "repository":"glassydan/kernel_xiaomi_tissot",
+    "repository":"MatchaKoi/kernel_xiaomi_tissot",
     "target_path":"kernel/xiaomi/msm8953",
-    "branch":"12",
+    "branch":"snow",
     "clone-depth":"1"
   },
   {
